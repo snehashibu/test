@@ -1,1 +1,0 @@
-Typically, you'd merge a remote-tracking branch (i.e., a branch fetched from a remote repository) with your local branch:
